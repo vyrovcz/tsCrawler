@@ -6,9 +6,9 @@ is a very basic experimental crawler with strict limitations and is useful to gr
 
 node.js (https://github.com/nodesource/distributions) 
 
-typescript (https://www.typescriptlang.org/download)
+(typescript if you want to compile yourself, precompiled .js you can find in ./out) (https://www.typescriptlang.org/download)
 
-internet connection (use at own risk, your IP might be block for flooding a domain)
+internet connection (use at own risk, your IP might be blocked for flooding a domain)
 
 ### Usage
 
