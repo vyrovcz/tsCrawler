@@ -18,10 +18,10 @@ if (argv.length > 0 && argv[0].startsWith("https")){
 
 let webpage = new Webpage(url)
 
-console.log("A: Crawling " + url)
+console.log("Crawling " + url)
 
 crawl(webpage).then(() => {
 
-    console.log("F: no more links to follow")
+    console.log("no more links to follow")
 
 })

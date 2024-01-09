@@ -2,6 +2,8 @@
 
 is a very basic experimental crawler with strict limitations and is useful to grab an initial overview of a domain.
 
+tested on Debian 12 Bookworm and Ubuntu 20.04 with Node 21x
+
 ### requires
 
 node.js (https://github.com/nodesource/distributions) 
